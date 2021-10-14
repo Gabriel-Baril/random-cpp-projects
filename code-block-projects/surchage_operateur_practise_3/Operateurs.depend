@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1300478454 source:c:\users\usagerjeux\desktop\c++ workspace\surchage_operateur_practise_3\duree.cpp
+	<iostream>
+	"Duree.h"
+
+1300480428 c:\users\usagerjeux\desktop\c++ workspace\surchage_operateur_practise_3\duree.h
+
+1300480364 source:c:\users\usagerjeux\desktop\c++ workspace\surchage_operateur_practise_3\main.cpp
+	<iostream>
+	"Duree.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1532288787 source:c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\ninja.cpp
+	"Enemy.h"
+	"Ninja.h"
+	<iostream>
+
+1532290073 c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\enemy.h
+	<string>
+
+1532288076 c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\ninja.h
+
+1532286348 source:c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\warrior.cpp
+	"Enemy.h"
+	"Warrior.h"
+
+1532286457 c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\warrior.h
+
+1532287481 source:c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\enemy.cpp
+	"Enemy.h"
+	<ostream>
+	<iostream>
+
+1532304250 source:c:\users\usagerjeux\desktop\c++ workspace\inheritance_test\main.cpp
+	<iostream>
+	"Enemy.h"
+	"Ninja.h"
+	"Warrior.h"
+	"vector"
+

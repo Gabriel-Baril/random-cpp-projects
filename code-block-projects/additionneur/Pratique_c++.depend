@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511648794 source:c:\users\usagerjeux\desktop\pratique c++\pratique_c++\main.cpp
+	<iostream>
+	<string>
+
+1511661451 source:c:\users\usagerjeux\desktop\c++ workspace\additionneur\main.cpp
+	<iostream>
+	<string>
+

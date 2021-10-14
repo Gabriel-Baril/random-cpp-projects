@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\usagerjeux\desktop\c++ workspace\structure_practise\main.cpp
+	<iostream>
+
+1532581178 source:c:\users\usagerjeux\desktop\c++ workspace\structure_practise\src\box.cpp
+	"Box.h"
+
+1532581178 c:\users\usagerjeux\desktop\c++ workspace\structure_practise\include\box.h
+
+1532581160 source:c:\users\usagerjeux\desktop\c++ workspace\structure_practise\src\game.cpp
+	"Game.h"
+
+1532581160 c:\users\usagerjeux\desktop\c++ workspace\structure_practise\include\game.h
+
+1532581132 source:c:\users\usagerjeux\desktop\c++ workspace\structure_practise\src\gameobject.cpp
+	"GameObject.h"
+
+1532581132 c:\users\usagerjeux\desktop\c++ workspace\structure_practise\include\gameobject.h
+
+1532584641 source:c:\users\usagerjeux\desktop\c++ workspace\structure_practise\src\vec2.cpp
+	"Vec2.h"
+	<math.h>
+	<iostream>
+
+1532584610 c:\users\usagerjeux\desktop\c++ workspace\structure_practise\include\vec2.h
+	<string>
+

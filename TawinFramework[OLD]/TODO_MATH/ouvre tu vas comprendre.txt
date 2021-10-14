@@ -1,0 +1,6 @@
+MOMENT D'INERTIE : Caractérise la difficulté d'un solide à se mettre en rotation. (SCALAIRE [kg/m^2])
+PRODUIT D'INERTIE : Caractérise l'absence de symétrie dans la répartition de la masse d'un solide.
+MATRIVE D'INERTIE : Synthétise le MOMENT D'INERTIE et le PRODUIT D'INERTIE dans une matrice 3*3 
+
+
+ESPACE VECTORIEL

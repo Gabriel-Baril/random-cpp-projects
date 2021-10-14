@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1532656473 source:j:\_programming\c++\test\t\src\box.cpp
+	"Box.h"
+
+1532656607 j:\_programming\c++\test\t\include\box.h
+	<GameObject.h>
+	<Vec2.h>
+
+1532642543 source:j:\_programming\c++\test\t\src\game.cpp
+	"Game.h"
+
+1532656607 j:\_programming\c++\test\t\include\game.h
+
+1532656607 source:j:\_programming\c++\test\t\src\gameobject.cpp
+	"GameObject.h"
+
+1532739728 j:\_programming\c++\test\t\include\gameobject.h
+	<Vec2.h>
+
+1532656763 source:j:\_programming\c++\test\t\src\vec2.cpp
+	"Vec2.h"
+	<math.h>
+	<iostream>
+
+1532742489 j:\_programming\c++\test\t\include\vec2.h
+	<string>
+
+1532739525 source:j:\_programming\c++\test\t\main.cpp
+	<iostream>
+	<Vec2.h>
+	<Shape.h>
+	<Segment.h>
+	<Box.h>
+
+1532656607 source:j:\_programming\c++\test\t\src\shape.cpp
+	"Shape.h"
+
+1532739783 j:\_programming\c++\test\t\include\shape.h
+	<GameObject.h>
+	<Vec2.h>
+	<Segment.h>
+	<vector>
+
+1532656858 source:j:\_programming\c++\test\t\src\segment.cpp
+	"Segment.h"
+	<iostream>
+
+1532656607 j:\_programming\c++\test\t\include\segment.h
+	<Vec2.h>
+

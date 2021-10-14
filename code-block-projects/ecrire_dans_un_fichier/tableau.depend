@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511728392 source:c:\users\usagerjeux\desktop\c++ workspace\tableau\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

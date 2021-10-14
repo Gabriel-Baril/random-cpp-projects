@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReferencePolymorphism", "ReferencePolymorphism\ReferencePolymorphism.vcxproj", "{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Debug|x64.ActiveCfg = Debug|x64
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Debug|x64.Build.0 = Debug|x64
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Debug|x86.Build.0 = Debug|Win32
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Release|x64.ActiveCfg = Release|x64
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Release|x64.Build.0 = Release|x64
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Release|x86.ActiveCfg = Release|Win32
+		{EAA7C8CE-55CB-4144-8D29-63E0996E42DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {470357E2-1593-4754-B8F2-CBFF9AEB6259}
+	EndGlobalSection
+EndGlobal

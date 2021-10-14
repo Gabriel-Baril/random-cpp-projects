@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1512435321 source:c:\users\usagerjeux\desktop\c++ workspace\recreate_binding_of_isaac_roguelike\main.cpp
+	"EntitiesHostileMobs.h"
+	<iostream>
+	<time.h>
+
+1512435163 source:c:\users\usagerjeux\desktop\c++ workspace\recreate_binding_of_isaac_roguelike\entitieshostilemobs.cpp
+	"EntitiesHostileMobs.h"
+	<iostream>
+	<string>
+	<math.h>
+	<vector>
+
+1512435163 c:\users\usagerjeux\desktop\c++ workspace\recreate_binding_of_isaac_roguelike\entitieshostilemobs.h
+	<string>
+
+1512419276 source:j:\c++ workspace\recreate_binding_of_isaac_roguelike\main.cpp
+	"EntitiesHostileMobs.h"
+	<iostream>
+
+1512419252 source:j:\c++ workspace\recreate_binding_of_isaac_roguelike\entitieshostilemobs.cpp
+	"EntitiesHostileMobs.h"
+	<iostream>
+	<string>
+	<math.h>
+	<vector>
+
+1512421072 j:\c++ workspace\recreate_binding_of_isaac_roguelike\entitieshostilemobs.h
+	<string>
+

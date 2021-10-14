@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1511886678 source:j:\c++ workspace\practise_class\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1511887122 j:\c++ workspace\practise_class\rectangle.h
+
+1511886582 source:j:\c++ workspace\practise_class\rectangle.cpp
+	<iostream>
+	<string>
+	"Rectangle.h"
+
+1511891048 source:c:\users\usagerjeux\desktop\c++ workspace\practise_class\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1511891295 c:\users\usagerjeux\desktop\c++ workspace\practise_class\rectangle.h
+
+1511891295 source:c:\users\usagerjeux\desktop\c++ workspace\practise_class\rectangle.cpp
+	<iostream>
+	<string>
+	"Rectangle.h"
+

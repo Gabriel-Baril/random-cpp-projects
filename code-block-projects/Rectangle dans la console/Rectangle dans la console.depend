@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511673268 source:c:\users\usagerjeux\desktop\c++ workspace\rectangle dans la console\main.cpp
+	<iostream>
+
+1511674557 source:c:\users\usagerjeux\desktop\c++ workspace\rectangle dans la console\rectangle dans la console.cpp
+	"Rectangle dans la console.h"
+
+1511674558 c:\users\usagerjeux\desktop\c++ workspace\rectangle dans la console\rectangle dans la console.h
+

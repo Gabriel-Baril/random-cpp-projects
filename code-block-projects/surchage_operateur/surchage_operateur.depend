@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1511927934 source:c:\users\usagerjeux\desktop\c++ workspace\surchage_operateur\main.cpp
+	<iostream>
+	"Duree.h"
+
+1511927934 c:\users\usagerjeux\desktop\c++ workspace\surchage_operateur\duree.h
+
+1511927544 source:c:\users\usagerjeux\desktop\c++ workspace\surchage_operateur\duree.cpp
+	"Duree.h"
+	<iostream>
+	<string>
+
+1512067584 source:j:\c++ workspace\surchage_operateur\duree.cpp
+	"Duree.h"
+	<iostream>
+	<string>
+
+1512067600 j:\c++ workspace\surchage_operateur\duree.h
+
+1512066660 source:j:\c++ workspace\surchage_operateur\main.cpp
+	<iostream>
+	"Duree.h"
+

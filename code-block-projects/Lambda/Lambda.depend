@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532313544 source:c:\users\usagerjeux\desktop\c++ workspace\lambda\main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+	<functional>
+

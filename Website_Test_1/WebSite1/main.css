@@ -1,0 +1,23 @@
+﻿h1 {
+    color: rgb(255, 106, 0);
+}
+
+div {
+    width: auto;
+    height: auto;
+    border-style: solid;
+    border-left-color: green;
+    border-top-color: yellow;
+    border-bottom-color: azure;
+    border-right: 30px solid black;
+    margin-bottom: 4px;
+}
+
+.mino {
+    color: rgb(0,255,0);
+    text-align: center;
+}
+
+#data {
+    color: rgb(116, 53, 51);
+}

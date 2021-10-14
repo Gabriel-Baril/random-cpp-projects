@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512069866 source:j:\c++ workspace\surchage_operateur_practise\date.cpp
+	"Date.h"
+
+1512069070 j:\c++ workspace\surchage_operateur_practise\date.h
+	<iostream>
+
+1512068640 source:j:\c++ workspace\surchage_operateur_practise\main.cpp
+	<iostream>
+

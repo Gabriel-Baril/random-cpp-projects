@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521514977 source:c:\users\usagerjeux\desktop\c++ workspace\chronometer\main.cpp
+	<iostream>
+	<Chrono.h>
+
+1521515000 source:c:\users\usagerjeux\desktop\c++ workspace\chronometer\src\chrono.cpp
+	"Chrono.h"
+	<iostream>
+
+1521514631 c:\users\usagerjeux\desktop\c++ workspace\chronometer\include\chrono.h
+

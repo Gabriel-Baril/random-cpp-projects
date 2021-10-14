@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1511831247 source:c:\users\usagerjeux\desktop\c++ workspace\first_class\main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1511834146 c:\users\usagerjeux\desktop\c++ workspace\first_class\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1511834230 source:c:\users\usagerjeux\desktop\c++ workspace\first_class\personnage.cpp
+	"Personnage.h"
+	<string>
+
+1511833978 source:c:\users\usagerjeux\desktop\c++ workspace\first_class\arme.cpp
+	"Arme.h"
+
+1511833748 c:\users\usagerjeux\desktop\c++ workspace\first_class\arme.h
+	<iostream>
+	<string>
+
