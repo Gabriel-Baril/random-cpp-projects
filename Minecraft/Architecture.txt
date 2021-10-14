@@ -1,0 +1,33 @@
+- Main Program Starting
+- Application Init
+	|- GLFW Init
+	|- GLEW Init
+	|- OpenGL init
+- Data Loading
+	|- Load OpenGL Data
+		|- Create Data Buffers
+		|- Import Data in Buffers
+	|- Load Shader
+	|- Set User Input Callback Functions
+	|- Set Matrices
+	|- Generate World
+- Update
+	|- Clear Previous Frame
+	|- Update Time
+	|- Set Viewport
+	|- Render Object(Data)
+		|- Filter Chunk to render
+			|- Close Chunk Filterer
+			|- ViewFrustum Filterer
+			|- Occlusion Culling Filterer
+			|- Occluded Blocks Filterer
+			|- Occluded Faces Filterer
+		|- Render Filtered Object
+	|- Pool User Inputs
+	|- Swap Buffers
+- Closing
+	- Delete Shader
+	- Delete Buffers
+	- Destroy Window
+	- Terminate GLFW/GLEW/OpenGl
+- Main Program Stopped

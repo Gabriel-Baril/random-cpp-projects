@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="cpp_includes.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="opengl_includes.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>header\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>header\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Chunk.h">
+      <Filter>header\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>header\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>header\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>header\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>header\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>header\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="RendererOptimizer.h">
+      <Filter>header\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>header\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="PerlinNoise.h">
+      <Filter>header\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>header\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="shaderVertex.txt">
+      <Filter>shader</Filter>
+    </Text>
+    <Text Include="shaderFragment.txt">
+      <Filter>shader</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{2cc25c76-6964-4493-9e69-e23cd21d68e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{72cd7463-a1e1-4fc8-bc0f-3990a49ac416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{da4998e0-d189-4253-a5c0-0d833500c57f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\Rendering">
+      <UniqueIdentifier>{13d8903f-eb96-44f9-94d7-7b8196ccd9cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\Entity">
+      <UniqueIdentifier>{e8f65e4c-3244-4854-8c18-2f3fe91e20f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\Core">
+      <UniqueIdentifier>{c7a17c73-2ebd-47c3-bd12-5e9704c14f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Entity">
+      <UniqueIdentifier>{b5ff8a1a-d5cc-4824-9f19-6ea4acacb836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Core">
+      <UniqueIdentifier>{aebb4c99-f11b-47cf-8fdc-9a23039ec242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Rendering">
+      <UniqueIdentifier>{289c3288-ae31-418d-a7d8-49501b0de4ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\Math">
+      <UniqueIdentifier>{2982c9b2-3fe6-4e25-b5cd-c8f024b326fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Math">
+      <UniqueIdentifier>{272ee5f0-43e5-4e40-be1e-254460f8a14c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>src\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Chunk.cpp">
+      <Filter>src\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>src\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>src\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>src\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>src\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>src\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>src\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="RendererOptimizer.cpp">
+      <Filter>src\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>src\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="PerlinNoise.cpp">
+      <Filter>src\Math</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

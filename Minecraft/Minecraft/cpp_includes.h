@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <regex>
+#include <algorithm>
+#include <iterator>
+#include <vector>
+#include <functional>
+#include <cstdlib>
+//#include <windows.h>

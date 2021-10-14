@@ -1,0 +1,35 @@
+Spacial Subdivisions Structures
+	- Uniform Grid
+	- Octree
+	- Binary Space Partitioning Trees
+	- KD-Trees
+	
+Occlusion Culling List (https://www.researchgate.net/publication/220061856_Occlusion_Culling_Algorithms_A_Comprehensive_Survey)
+	- Aspect Graph
+	- Backface
+	- Hierarchical Z-buffer
+	- Hierarchical Occlusion Maps
+	- Visibility Octree
+	- Directional Discretized Scenes
+	- Densely Occluded Scenes
+	- Cull Maps
+	- Blocker Extension
+	- Shadow Culling
+	- Portals (Luebke)
+	- Portals (Teller)
+	- RT Occlusion-Large Occluder
+	- Extended Projections
+	- Virtual Occluders
+	- Occlusion Trees
+	- Linearized Aspect Graph
+	- LOD Occluders
+	- Platinga
+	- Hierarchical Back-Face
+	- Opengl Culling
+	- Prioritized Layered Projection
+	- Conservative Prioritized Layered Projection
+	- Hoops
+	- Hierarchical Terrain Vis.
+	- Selective Refinement
+	- Lazy Occlusion Grid
+	

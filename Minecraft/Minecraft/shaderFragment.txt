@@ -1,0 +1,10 @@
+#version 330 core
+out vec4 color;
+in vec3 colorVertex;
+
+void main()
+{
+	gl_FragColor = vec4(colorVertex,1);
+	//if(gl_FragCoord.x < 100) discard;
+	//if(gl_FragColor.r == 1 && gl_FragColor.g == 0 && gl_FragColor.b == 0) discard;
+}
